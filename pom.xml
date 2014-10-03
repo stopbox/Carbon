@@ -69,7 +69,7 @@
         <dependency>
             <groupId>spigot</groupId>
             <artifactId>spigot</artifactId>
-            <version>1479</version>
+            <version>1.7.9-R0.3-SNAPSHOT</version>
             <type>jar</type>
         </dependency>
         <dependency>
