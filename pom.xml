@@ -2,7 +2,6 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.lastabyss.ext.plugins</groupId>
     <artifactId>Carbon</artifactId>
-    <version>1</version>
     <name>Carbon</name>
     <url>http://www.lastabyss.com/</url>
     <repositories>
@@ -87,7 +86,7 @@
         <dependency>
             <groupId>com.comphenix.protocol</groupId>
             <artifactId>ProtocolLib</artifactId>
-            <version>3.5.0</version>
+            <version>3.4.0</version>
         </dependency>
     </dependencies>
 </project>
